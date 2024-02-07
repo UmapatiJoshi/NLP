@@ -1,0 +1,32 @@
+[ 2024-02-07 15:42:27,319 ] 47 root - INFO -Creating directory: .github\workflows for the file .gitkeep
+[ 2024-02-07 15:42:27,319 ] 52 root - INFO -Creating empty file: .github\workflows\.gitkeep 
+[ 2024-02-07 15:42:27,319 ] 47 root - INFO -Creating directory: src\textSummarizer for the file __init__.py
+[ 2024-02-07 15:42:27,319 ] 52 root - INFO -Creating empty file: src\textSummarizer\__init__.py 
+[ 2024-02-07 15:42:27,319 ] 47 root - INFO -Creating directory: src\textSummarizer\components for the file __init__.py
+[ 2024-02-07 15:42:27,319 ] 52 root - INFO -Creating empty file: src\textSummarizer\components\__init__.py 
+[ 2024-02-07 15:42:27,319 ] 47 root - INFO -Creating directory: src\textSummarizer\utils for the file __init__.py
+[ 2024-02-07 15:42:27,319 ] 52 root - INFO -Creating empty file: src\textSummarizer\utils\__init__.py 
+[ 2024-02-07 15:42:27,319 ] 47 root - INFO -Creating directory: src\textSummarizer\utils for the file common.py
+[ 2024-02-07 15:42:27,319 ] 52 root - INFO -Creating empty file: src\textSummarizer\utils\common.py 
+[ 2024-02-07 15:42:27,319 ] 47 root - INFO -Creating directory: src\textSummarizer\logging for the file __init__.py
+[ 2024-02-07 15:42:27,319 ] 52 root - INFO -Creating empty file: src\textSummarizer\logging\__init__.py 
+[ 2024-02-07 15:42:27,319 ] 47 root - INFO -Creating directory: src\textSummarizer\config for the file __init__.py
+[ 2024-02-07 15:42:27,319 ] 52 root - INFO -Creating empty file: src\textSummarizer\config\__init__.py 
+[ 2024-02-07 15:42:27,319 ] 47 root - INFO -Creating directory: src\textSummarizer\config for the file configuration.py
+[ 2024-02-07 15:42:27,319 ] 52 root - INFO -Creating empty file: src\textSummarizer\config\configuration.py 
+[ 2024-02-07 15:42:27,335 ] 47 root - INFO -Creating directory: src\textSummarizer\pipeline for the file __init__.py
+[ 2024-02-07 15:42:27,335 ] 52 root - INFO -Creating empty file: src\textSummarizer\pipeline\__init__.py 
+[ 2024-02-07 15:42:27,335 ] 47 root - INFO -Creating directory: src\textSummarizer\entity for the file __init__.py
+[ 2024-02-07 15:42:27,335 ] 52 root - INFO -Creating empty file: src\textSummarizer\entity\__init__.py 
+[ 2024-02-07 15:42:27,335 ] 47 root - INFO -Creating directory: src\textSummarizer\constant for the file __init__.py
+[ 2024-02-07 15:42:27,335 ] 52 root - INFO -Creating empty file: src\textSummarizer\constant\__init__.py 
+[ 2024-02-07 15:42:27,335 ] 47 root - INFO -Creating directory: config for the file config.yaml
+[ 2024-02-07 15:42:27,336 ] 52 root - INFO -Creating empty file: config\config.yaml 
+[ 2024-02-07 15:42:27,336 ] 52 root - INFO -Creating empty file: params.yaml 
+[ 2024-02-07 15:42:27,336 ] 52 root - INFO -Creating empty file: app.py 
+[ 2024-02-07 15:42:27,336 ] 52 root - INFO -Creating empty file: main.py 
+[ 2024-02-07 15:42:27,336 ] 52 root - INFO -Creating empty file: Dockerfile 
+[ 2024-02-07 15:42:27,336 ] 52 root - INFO -Creating empty file: requirements.txt 
+[ 2024-02-07 15:42:27,336 ] 52 root - INFO -Creating empty file: setup.py 
+[ 2024-02-07 15:42:27,336 ] 47 root - INFO -Creating directory: research for the file trials.ipynb
+[ 2024-02-07 15:42:27,336 ] 52 root - INFO -Creating empty file: research\trials.ipynb 
